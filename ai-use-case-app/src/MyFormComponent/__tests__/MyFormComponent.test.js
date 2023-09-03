@@ -1,7 +1,7 @@
 import React from "react";
 import { render, screen, waitFor } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
-import MyFormComponent from "./MyFormComponent";
+import MyFormComponent from "../MyFormComponent";
 
 describe("MyFormComponent", () => {
   // Just removes unnecessary console error output (unnecessary for this case)
