@@ -14,4 +14,4 @@
 
     - Go to ai-use-case-app
     - Run npm install
-    - Run npm test
+    - Run npx jest
