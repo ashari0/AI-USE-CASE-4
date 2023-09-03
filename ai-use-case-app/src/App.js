@@ -1,4 +1,3 @@
-import "./App.css";
 import MyFormComponent from "./MyFormComponent/MyFormComponent";
 
 function App() {
